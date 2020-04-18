@@ -1,5 +1,5 @@
 # WorldDownloader
-It's mod for [minecraft-linux/mcpelauncher-client](https://github.com/minecraft-linux/mcpelauncher-client) which collects chunks sent over network from server
+This mod is for [mcpelauncher-client](https://github.com/minecraft-linux/mcpelauncher-client) which collects chunks sent over network from server. You can make backups of your builds on multiplayer servers. This is forked from [WorldDownloader](https://github.com/Frago9876543210/WorldDownloader) by [Frago9876543210](https://github.com/Frago9876543210)
 
 ### Install
 ```bash
